@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        .container{
+            border: 2px solid black;
+            width: 500px;
+            height: 500px;
+            display: flex;
+            overflow: scroll;
+        }
+        .one{
+            border: 2px solid red;
+            width: 200px;
+            height: 150px;
+        }
+        .two{
+            border: 2px solid red;
+            width: 200px;
+            height: 150px;
+        }
+        .three{
+            border: 2px solid red;
+            width: 200px;
+            height: 150px;
+        }
+        .four{
+            border: 2px solid red;
+            width: 200px;
+            height: 150px;
+        }
+        .five{
+            border: 2px solid red;
+            width: 200px;
+            height: 150px;
+        }
+        .six{
+            border: 2px solid red;
+            width: 200px;
+            height: 150px;
+        }
+    </style>
+    <div class="container" >
+        <div class="one"></div>
+        <div class="two"></div>
+        <div class="three"></div>
+        <div class="four"></div>
+        <div class="five"></div>
+        <div class="six"></div>
+    </div>
+</body>
+</html>
